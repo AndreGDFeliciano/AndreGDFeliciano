@@ -1,7 +1,9 @@
 ## Hello, nice to see you 👋
 
 Current company: NOS Inovação
+
 Current position: Curricular Internship as AI Engineer
+
 Education: BSc & MSc in Engineering Physics @ IST - ULisboa - Instituto Superior Técnico - Universidade de Lisboa.
 
 
